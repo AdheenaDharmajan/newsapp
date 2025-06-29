@@ -18,3 +18,9 @@ A Flutter-based News Application that fetches and displays the latest news artic
 - REST API Integration
 - Firebase (for Auth if used)
 - Provider / Bloc (state management) *(if applicable)*
+
+  ## 📸 Screenshots
+
+![Screenshot 2025-06-29 093954](https://github.com/user-attachments/assets/2f31e2de-5122-4e8b-af18-663d63236ed0)
+
+
